@@ -81,5 +81,7 @@ final report  includes each of the following:
  Hard work paid off! Here are some results!
  
  [Pandas Script](PyCitySchools/PyCitySchools_starter.ipynb)
+ 
  [Analyses](PyCitySchools/Analysis of PyCitySchools HomeWork.docx)
+ 
  [CSV file](PyCitySchools/Resources/students_complete.csv)
