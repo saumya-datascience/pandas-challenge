@@ -63,4 +63,4 @@ Repeat the above breakdown, but this time group schools based on school type (Ch
 #Results
  [Pandas Script](PyCitySchools/PyCitySchools_starter.ipynb)
  [Analyses]()
- [CSV file]()
+ [CSV file](PyCitySchools/Resources/students_complete.csv)
