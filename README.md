@@ -1,4 +1,4 @@
-# pandas-challenge
+# Pandas-Challenge
 I love PANDA but coding in PANDASSS is interesting too. Time to test skills gained in the Bootcamp.
 Out of the two challenges, PYMOLI and PYCITYSCHOOLS, i decided go for Pycityschool as it was more challenging.
 # Time to do some PANDAS CONDING
