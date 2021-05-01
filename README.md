@@ -77,7 +77,9 @@ final report  includes each of the following:
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
 
-#Results
+# RESULTS
+ 
+ 
  [Pandas Script](PyCitySchools/PyCitySchools_starter.ipynb)
  [Analyses]()
  [CSV file](PyCitySchools/Resources/students_complete.csv)
