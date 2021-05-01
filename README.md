@@ -81,5 +81,5 @@ final report  includes each of the following:
  
  
  [Pandas Script](PyCitySchools/PyCitySchools_starter.ipynb)
- [Analyses]()
+ [Analyses](PyCitySchools/Analysis of PyCitySchools HomeWork.docx)
  [CSV file](PyCitySchools/Resources/students_complete.csv)
