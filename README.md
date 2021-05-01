@@ -61,6 +61,6 @@ Scores by School Type
 Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
 #Results
- [Pandas Script](pyBank/main.py)
+ [Pandas Script](PyCitySchools/PyCitySchools_starter.ipynb)
  [Analyses]()
  [CSV file]()
