@@ -9,10 +9,10 @@ As a first task, I have been asked to analyze the district-wide standardized tes
 final report  includes each of the following:
 
 1)District Summary
- Create a high level snapshot (in table form) of the district's key metrics, including:
- Total Schools
-Total Students
-Total Budget
+ *Create a high level snapshot (in table form) of the district's key metrics, including:
+ *Total Schools
+ *Total Students
+ *Total Budget
 Average Math Score
 Average Reading Score
 % Passing Math (The percentage of students that passed math.)
