@@ -1,7 +1,7 @@
 # Pandas-Challenge
 I love PANDA but coding in PANDASSS is interesting too. Time to test skills gained in the Rutgers Bootcamp.
 Out of the two challenges, PYMOLI and PYCITYSCHOOLS, I decided go for Pycityschool as it was more challenging.
-# Time to do some PANDAS CONDING
+# Time to do some PANDAS CODING
 ## PROBLEM
 As a Chief Data Scientist for  city's school district, my job is to help the school board and mayor make strategic decisions regarding future school budgets and priorities.
 As a first task, I have been asked to analyze the district-wide standardized test results. I have been given access to every student's math and reading scores, as well as various information on the schools they attend. My responsibility is to aggregate the data to and showcase obvious trends in school performance.
